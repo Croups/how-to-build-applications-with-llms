@@ -60,7 +60,7 @@ pip install pydantic
 ## Next Steps
 
 After completing this tutorial, you'll be ready to:
-- Build type-safe APIs with FastAPI
+- Build type-safe APIs
 - Validate complex data structures
 - Create robust data models
 - Handle data serialization and deserialization
