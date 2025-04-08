@@ -49,7 +49,7 @@ pip install pydantic
 2. Follow along with the tutorial files:
    - `introduction.py`: Basic concepts and model definition
    - `field_features.py`: Field validation and constraints
-   - `oop_comparison.py : Classic OOP Comparison with pydantic
+   - `oop_comparison.py` : Classic OOP Comparison with pydantic
    - `additional_features.py`: Advanced features and data types
    - `type_adapter.py`: Type conversion and validation
 
